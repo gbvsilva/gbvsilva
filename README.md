@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br />
 
 ### GitHub Activity Graph
-<a href="https://github.com/gbvsilva/gbvsilva"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=gbvsilva&theme=github&hide_border=true" /></a>
+<a href="https://github.com/gbvsilva/gbvsilva"><img alt="Senior Dev's activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=gbvsilva&theme=github&hide_border=true" /></a>
 <br />
 
 <p align="right">
