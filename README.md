@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### GitHub Profile Status
 <p align="center">    
-  <img src="https://github-readme-stats.vercel.app/api?username=gbvsilva&show_icons=true&theme=discord_old_blurple&hide_border=true" width="54.25%">
+  <img src="https://github-readme-stats-ul1b.vercel.app/api?username=gbvsilva&show_icons=true&theme=discord_old_blurple&hide_border=true" width="54.25%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gbvsilva&layout=compact&theme=discord_old_blurple&hide_border=true" width="45.25%"> 
 </p>
 <br />
