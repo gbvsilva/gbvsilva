@@ -41,5 +41,5 @@ Here are some ideas to get you started:
   <a href="https://github.com/gbvsilva?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/gbvsilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
   <a href="https://github.com/gbvsilva">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=gbvsilva&style=for-the-badge"/></a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=gbvsilva&style=for-the-badge"/></a>
 </p>
