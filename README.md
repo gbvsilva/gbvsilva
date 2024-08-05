@@ -43,3 +43,5 @@ Here are some ideas to get you started:
   <a href="https://github.com/gbvsilva">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=gbvsilva&style=for-the-badge"/></a>
 </p>
+
+P.S.: work at Gentil Negócios profile [@gngraco](https://github.com/gngraco).
